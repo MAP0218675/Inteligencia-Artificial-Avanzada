@@ -1,0 +1,31 @@
+# Danny's Pizza Analysis - Requirements
+# Análisis de datos de Danny's Pizza con SQLite y pandas
+
+# Data manipulation and analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Database connectivity (SQLite is built-in with Python, but included for completeness)
+# sqlite3 is part of Python standard library, no installation needed
+
+# Optional: For enhanced data visualization (if you want to add charts later)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Optional: For interactive plots (if needed)
+plotly>=5.15.0
+
+# Optional: For Excel file support (if you need to read .xlsx files)
+openpyxl>=3.1.0
+
+# Optional: For better Jupyter notebook experience
+ipykernel>=6.25.0
+jupyter>=1.0.0
+
+# Optional: For data validation and cleaning
+# (useful for data quality checks)
+great-expectations>=0.17.0
+
+# Optional: For statistical analysis
+scipy>=1.11.0
+scikit-learn>=1.3.0
