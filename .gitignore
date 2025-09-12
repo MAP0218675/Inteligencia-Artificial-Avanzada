@@ -96,3 +96,8 @@ results/
 .mypy_cache/
 2025-01.csv
 2025-01.csv
+2025-01_clean.parquet
+SparkML.ipynb
+codigo_apuntes.ipynb
+ecobici.ipynb
+mkb_data.npz
