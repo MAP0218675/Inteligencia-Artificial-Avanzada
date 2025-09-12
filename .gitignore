@@ -94,3 +94,4 @@ results/
 .cache/
 .pytest_cache/
 .mypy_cache/
+2025-01.csv
