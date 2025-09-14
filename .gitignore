@@ -106,3 +106,10 @@ SparkML.ipynb
 codigo_apuntes.ipynb
 ecobici.ipynb
 mkb_data.npz
+cats_dogs/
+archive (6)/
+*.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+*.tmp
+*.log
